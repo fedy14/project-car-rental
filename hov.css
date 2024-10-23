@@ -27,8 +27,7 @@ body {
 }
 
 #header .nav-bar .logo {
-    margin-top: 20px;
-    margin-left: 50px;
+    margin-top: 0;
 }
 
 #header .nav-bar .logo a {
@@ -212,7 +211,7 @@ img.hover-img {
     }
 }
 .register {
-    font-size: 100px;
+    font-size: 00px;
     background: linear-gradient(#ff054c, #1e01f9);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
