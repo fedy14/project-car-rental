@@ -402,6 +402,11 @@ li {
   padding-bottom: 10px;
 }
 
+.footer-section img{
+  width: 50px;
+  margin: 0 10px;
+}
+
 .footer-section ul {
   list-style-type: none;
   padding: 0;
