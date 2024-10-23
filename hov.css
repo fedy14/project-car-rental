@@ -210,3 +210,11 @@ img.hover-img {
         opacity: 1;
     }
 }
+register {
+    font-size: 200px;
+    background: linear-gradient(#ff054c, #1e01f9);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin: 22px;
+}
