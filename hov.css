@@ -210,8 +210,8 @@ img.hover-img {
         opacity: 1;
     }
 }
-register {
-    font-size: 200px;
+.register {
+    font-size: 100px;
     background: linear-gradient(#ff054c, #1e01f9);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
