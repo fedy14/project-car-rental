@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background: url(https://cdn.pixabay.com/photo/2016/04/01/12/16/car-1300629_640.png) no-repeat center center fixed;
+    background: url('https://cdn.pixabay.com/photo/2016/04/01/12/16/car-1300629_640.png') no-repeat center center fixed;
     background-size: cover;
     color: #333;
     padding: 20px;
@@ -23,16 +23,16 @@ header {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 
-.returns-section ul {
+.faqs-section ul {
     list-style: none;
     padding: 0;
 }
 
-.returns-section ul li {
+.faqs-section ul li {
     margin-bottom: 20px;
 }
 
-.returns-section ul li h4 {
+.faqs-section ul li h4 {
     margin-bottom: 10px;
     color: #003366;
 }

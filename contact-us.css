@@ -1,7 +1,11 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background: url('https://cdn.pixabay.com/photo/2016/04/01/12/16/car-1300629_640.png') no-repeat center center fixed;
+    background-size: cover;
+    color: #333;
+    padding: 20px;
 }
+
 
 header {
     background-color: #003366;
